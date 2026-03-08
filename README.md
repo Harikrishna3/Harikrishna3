@@ -45,6 +45,22 @@
 
 ---
 
+# 🤖 Familiar With
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+
+</p>
+
+---
+
 # 🚀 Featured Project
 
 ## 🔗 NanoLink — Distributed URL Shortener
@@ -79,11 +95,6 @@ https://github.com/Harikrishna3/nanolink
 <p align="center">
 </p>
 
-
-
----
-
-# 🐍 Contribution Snake Animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
